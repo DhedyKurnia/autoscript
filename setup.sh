@@ -26,12 +26,12 @@ sudo gem install lolcat
 # Running screenfetch
 cd
 rm -rf /root/.bashrc
-wget -O /root/.bashrc https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/.bashrc
+wget -O /root/.bashrc https://raw.githubusercontent.com/DhedyKurnia/autoscript/main/.bashrc
 #install cf
-wget https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/cloudflare.sh && chmod +x cloudflare.sh && ./cloudflare.sh
+wget https://raw.githubusercontent.com/DhedyKurnia/autoscript/main/cloudflare.sh && chmod +x cloudflare.sh && ./cloudflare.sh
 #install ssh ovpn
-wget https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
-wget https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/sstp.sh && chmod +x sstp.sh && ./sstp.sh
+wget https://raw.githubusercontent.com/DhedyKurnia/autoscript/main/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
+wget https://raw.githubusercontent.com/DhedyKurnia/autoscript/main/sstp.sh && chmod +x sstp.sh && ./sstp.sh
 #install ssr
 #wget https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/ssr.sh && chmod +x ssr.sh && ./ssr.sh
 #wget https://raw.githubusercontent.com/Gl33ch3r/autoscript/main/sodosok.sh && chmod +x sodosok.sh && ./sodosok.sh
